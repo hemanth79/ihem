@@ -1,0 +1,139 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: Comic Sans MS,sans-serif;
+}
+.intro {
+  width: 30%;
+  margin: auto;
+  line-height: 2;
+}
+
+
+h1 {
+  margin:50px auto 0 auto;
+  font-family: 'Pacifico', cursive;
+  font-size: 437.5%;
+  color: #41aaa8;
+}
+h2 {
+  font-family: 'Roboto Slab', serif;
+  color: #50b6bb;
+    font-weight: normal;
+}
+h3 {
+  color: #204969;
+  font-family: 'Roboto Slab', serif;
+}
+
+.top-container {
+  background-color: #d2fafb;
+  padding: 10px;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.middle-container {
+  margin: 50px auto 50px auto;
+}
+.botton-container {
+  background-color: #66BFBF;
+  padding: 30px 0 20px;
+
+}
+.bottom-cloud {
+  position: absolute;
+  left: 320px;
+}
+p {
+  color:#4b8e8d;
+  font-family: 'Roboto Slab', serif;
+  font-size: 20px;
+
+}
+
+.top-cloud {
+  position: relative;
+  left: 250px;
+
+
+}
+.circular {
+  border-radius: 100%;
+  height: 5cm;
+  width: 5cm;
+}
+.web {
+  width: 25%;
+  float: left;
+  margin-right: 40px;
+}
+.emoji {
+  height: 20px;
+}
+.draw {
+  width: 25%;
+  float:right;
+  margin:40px;
+
+
+}
+.fb {
+  height: 1cm;
+  width: 1cm;
+}
+.wa {
+  height: 1cm;
+  width: 1cm;
+}
+.in {
+  height: 1cm;
+  width: 1cm;
+}
+.g {
+  height: 1cm;
+  width: 1cm;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 200px auto;
+  text-align: left;
+  line-height: 2;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width:  10px;
+  width: 10%;
+  margin: 70px auto 70px auto;
+}
+.button {
+  color: rgb(239, 230, 230);
+font-size: 17px;
+padding: 10px;
+text-shadow: 0px -1px 0px rgba(30, 30, 30, 0.8);
+-webkit-border-radius: 48.567537874788854px;
+-moz-border-radius: 48.567537874788854px;
+border-radius: 48.567537874788854px;
+background: rgb(22, 99, 122);
+background: -moz-linear-gradient(90deg, rgb(22, 99, 122) 30%, rgb(156, 204, 193) 87%);
+background: -webkit-linear-gradient(90deg, rgb(22, 99, 122) 30%, rgb(156, 204, 193) 87%);
+background: -o-linear-gradient(90deg, rgb(22, 99, 122) 30%, rgb(156, 204, 193) 87%);
+background: -ms-linear-gradient(90deg, rgb(22, 99, 122) 30%, rgb(156, 204, 193) 87%);
+background: linear-gradient(0deg, rgb(22, 99, 122) 30%, rgb(156, 204, 193) 87%);
+-webkit-box-shadow: 0px 3px 11px rgba(50, 50, 50, 0.87);
+-moz-box-shadow:    0px 3px 11px rgba(50, 50, 50, 0.87);
+box-shadow:         0px 3px 11px rgba(50, 50, 50, 0.87);
+margin: 1px auto 30px auto;
+
+}
+ /*a:hover {
+  color: #ecf4f3;
+}*/
+.copyright {
+  color: #EAF6F6;
+  font-size: 15px;
+  margin: 20px auto 20px auto;
+}
